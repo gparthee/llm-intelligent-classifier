@@ -1,0 +1,21 @@
+text,expected
+Please refund my last invoice,billing
+Unexpected charge on my card,billing
+Payment was declined,billing
+Billing details are wrong,billing
+App crashes on launch,technical
+I see a timeout error,technical
+Export is broken,technical
+There is a bug in the search,technical
+Cannot reset my password,account
+Login is unavailable,account
+Please restore my access,account
+Change account email,account
+Where is your office?,general
+What are your hours?,general
+Thanks for the update,general
+Is a demo available?,general
+My login and invoice are wrong,general
+Software closes unexpectedly,technical
+Could you reverse this fee?,billing
+I need help signing in,account
